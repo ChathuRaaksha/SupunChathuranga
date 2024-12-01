@@ -11,7 +11,7 @@ My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm p
 - 👥 I'm also a professional member of British Computer Society (MBCS).
 - 📚 I'm successfully complete my masters in Computer Science at University of Colombo School of Computing.
 - 📚 I'm successfully complete my degree in Information Technology at Sri Lanka Institute of Information Technology.
-- 💞️ I'm looking to collaborate on building websites and web apps,mobile apps, and more.
+- 💞️ I'm looking to collaborate on building websites and web apps, mobile apps, and more.
 
 ## Get in Touch
 - 📧 Email me via [chathurangarulz@gmail.com](mailto:chathurangarulz@gmail.com) to contact.
@@ -34,7 +34,7 @@ My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm p
 | Reviews | Unknown (0pt) |
 
 ## Connect & Collaborate
-[![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=flat&logo=portfolio&logoColor=white)]([https://example.com/portfolio](https://supun-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=flat&logo=portfolio&logoColor=white)](https://supun-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-chathuranga-190372148/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/supunchathuranga)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chathu.raaksha6/)
