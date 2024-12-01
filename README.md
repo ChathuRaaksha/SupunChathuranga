@@ -6,7 +6,7 @@ My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm p
 ![Supun Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunchathuranga&show_icons=true&theme=tokyonight)
 
 ## Interests and Experiences
-- 🛠️ I'm interested in HTML, CSS, JavaScript, C++, Hacking, and Web developing.
+- 🛠️ I'm interested in React JS, PHP, Java, Javascript, Flutter, React Native, Python, HTML, CSS, and both Mobile and Web developing.
 - 📚 I'm currently reading my Second Master, Masters of Strategic Information Systems Management at Stockholm University.
 - 👥 I'm also a professional member of British Computer Society (MBCS).
 - 📚 I'm successfully complete my masters in Computer Science at University of Colombo School of Computing.
