@@ -1,4 +1,4 @@
-# **Supun Chathuranga** 🚀
+# Supun Chathuranga 🚀
 
 <style>
 @keyframes nameAnimation {
@@ -11,19 +11,25 @@
     opacity: 1;
   }
 }
-
 .name-animation {
   animation: nameAnimation 1s ease-in-out;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 10px;
 }
 </style>
 
 <div class="name-animation">
-  Hi there 👋 I'm **Supun Chathuranga**
+  Hi there 👋 I'm Supun Chathuranga
 </div>
 
-I'm 21 years old. 
+I'm 21 years old.
 
 ## Follow Me 👇
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunchathuranga&show_icons=true&theme=tokyonight)
+
 
 ## About Me
 My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm passionate about building innovative solutions and constantly learning new technologies.
