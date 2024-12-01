@@ -9,7 +9,8 @@
 ## About Me
 My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm passionate about building innovative solutions and constantly learning new technologies.
 
-![GitHub Stats Placeholder](https://github-readme-stats.vercel.app/api?username=placeholderuser&show_icons=true&theme=tokyonight)
+![Supun Chathuranga's GitHub Stats](https://fake-github-stats.herokuapp.com/api?username=dummyuser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true)
+
 
 
 
