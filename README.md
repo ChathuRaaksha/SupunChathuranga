@@ -1,28 +1,6 @@
 # Supun Chathuranga 🚀
 
-<style>
-@keyframes nameAnimation {
-  0% {
-    transform: translateX(-100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-.name-animation {
-  animation: nameAnimation 1s ease-in-out;
-  font-size: 24px;
-  font-family: Arial, sans-serif;
-  color: #333;
-  margin: 10px;
-}
-</style>
-
-<div class="name-animation">
-  Hi there 👋 I'm Supun Chathuranga
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&size=26&pause=1000&color=F7C582&background=7BFFAC00&width=435&lines=Supun+Chathuranga;Follow+Me+%F0%9F%91%87)](https://git.io/typing-svg)
 
 I'm 21 years old.
 
