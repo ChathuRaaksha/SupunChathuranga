@@ -1,4 +1,23 @@
-# Hello there! 👋
+# **Supun Chathuranga** 👋
+
+<style>
+@keyframes nameAnimation {
+ 0% {
+   transform: translateX(-100%);
+   opacity: 0;
+ }
+ 100% {
+   transform: translateX(0);
+   opacity: 1;
+ }
+}
+
+.name-animation {
+ animation: nameAnimation 1s ease-in-out;
+}
+</style>
+
+<span class="name-animation">Supun Chathuranga</span>
 
 ## About Me
 My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm passionate about building innovative solutions and constantly learning new technologies.
