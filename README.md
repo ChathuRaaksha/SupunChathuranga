@@ -1,15 +1,17 @@
 # Hello there! 👋
 
 ## About Me
-My name is **Supun Chathuranga**, and I'm a 21-year-old software developer. I'm passionate about building innovative solutions and constantly learning new technologies.
+My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm passionate about building innovative solutions and constantly learning new technologies.
 
 ![Supun Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunchathuranga&show_icons=true&theme=tokyonight)
 
 ## Interests and Experiences
 - 🛠️ I'm interested in HTML, CSS, JavaScript, C++, Hacking, and Web developing.
-- 📚 I'm currently reading Computer Systems and Network Engineering Degree at SLIIT.
-- 👥 I'm also a member of KCD, GDG, and AICSL.
-- 💞️ I'm looking to collaborate on building websites and web apps, developing Linux tools, Linux server operations, and more.
+- 📚 I'm currently reading my Second Master, Masters of Strategic Information Systems Management at Stockholm University.
+- 👥 I'm also a professional member of British Computer Society (MBCS).
+- 📚 I'm successfully complete my masters in Computer Science at University of Colombo School of Computing.
+- 📚 I'm successfully complete my degree in Information Technology at Sri Lanka Institute of Information Technology.
+- 💞️ I'm looking to collaborate on building websites and web apps,mobile apps, and more.
 
 ## Get in Touch
 - 📧 Email me via [chathurangarulz@gmail.com](mailto:chathurangarulz@gmail.com) to contact.
