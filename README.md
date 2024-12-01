@@ -68,8 +68,12 @@ My name is **Supun Chathuranga**, and I'm a Full Stack software developer. I'm p
 
 
 ## Connect & Collaborate
+<div align="center">
+
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=flat&logo=vercel&logoColor=white)](https://supun-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-chathuranga-190372148/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/supunchathuranga)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chathu.raaksha6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chathurangarulz@gmail.com)
+
+</div>
