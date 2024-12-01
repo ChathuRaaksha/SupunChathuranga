@@ -1,7 +1,6 @@
 # Hi, there 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&size=26&pause=1000&color=F7C582&background=7BFFAC00&width=435&lines=Supun+Chathuranga;Follow+Me+%F0%9F%91%87)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F2F7&width=435&lines=Hello%2C+I'M+Supun;Full+Stack+Developer+%F0%9F%92%BB;Cross+Platform+Dev+%F0%9F%94%B4;React+%2F+React+Native+Dev+%F0%9F%8C%90;Don't+Forget+to+follow+me)](https://git.io/typing-svg)
 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunchathuranga&show_icons=true&theme=tokyonight)
 
